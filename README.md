@@ -1,8 +1,6 @@
-#Anonymous-Chat-App
+#old-Chat-App
 
 Sample application on building a chat app using Pusher.
-
-[View tutorial](https://pusher.com/tutorials/anonymous-chat-javascript/)
 
 ## Getting Started
 
